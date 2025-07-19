@@ -94,6 +94,12 @@ This notebook includes:
 
 ---
 
+## 📸 Power BI Dashboard Preview
+
+![Dashboard Screenshot](DashboardImage/dashboard_screenshot.jpg)
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 - **Python (Pandas, NumPy, Sklearn)**
